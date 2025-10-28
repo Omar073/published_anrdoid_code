@@ -1,4 +1,4 @@
-# Touchpad Visualization Debugging TOol
+# Touchpad Visualization Debugging Tool
 
 The Touchpad Visualizer Window is a developer option introduced in the Android Operating System to provide real-time visualization for debugging touchpad interactions. Enabled via developer settings, it helps developers test and refine touchpad functionality on Android devices with interactive, on-screen feedback.
 
